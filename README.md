@@ -40,7 +40,9 @@ See the Notebook for the step-by-step instructions to install detectron2.
 
 ## 4. Results
 
+![Test Image](https://github.com/tograh/testrepository/master/3DTest.png)
 
+![Test Image](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
 
 ### 5. Credits
 
