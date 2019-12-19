@@ -42,6 +42,9 @@ See the Notebook for the step-by-step instructions to install detectron2.
 
 <p align="center">
   <img width="307" height="400" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result1.png">
+  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result2.png">
+  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result3.png">
+  <img width="400" height="341" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result4.png">
 </p>
 
 ### 5. Credits
