@@ -26,17 +26,19 @@ See the Notebook for the step-by-step instructions to install detectron2.
 
 ## 2. Download Dataset
 
-[Training set](https://drive.google.com/open?id=1De1LwcyS4Bv4jMUDP7FwTk3Mlvz4UZVY)
+Tiny VOC dataset contains only 1349 training images and 100 test images with 20 common object classes (namely aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor).
 
-[Training annotations](https://drive.google.com/open?id=1PJlwiTwjOvTeoco58o137qCNhL20eZ2U)
+- [Training set](https://drive.google.com/open?id=1De1LwcyS4Bv4jMUDP7FwTk3Mlvz4UZVY)
 
-[Test set](https://drive.google.com/open?id=1vrDyKus2H7XsLJ78f_g6XKK3YvF9ZVyZ)
+- [Training annotations](https://drive.google.com/open?id=1PJlwiTwjOvTeoco58o137qCNhL20eZ2U)
 
-[Test annotations](https://drive.google.com/open?id=1aLxbdYZXIE3PHcqA_Df-odnE8IPnneyD)
+- [Test set](https://drive.google.com/open?id=1vrDyKus2H7XsLJ78f_g6XKK3YvF9ZVyZ)
+
+- [Test annotations](https://drive.google.com/open?id=1aLxbdYZXIE3PHcqA_Df-odnE8IPnneyD)
 
 ## 3. Pre-trained Model
 
-[Final Model](https://drive.google.com/open?id=1wXp5LAxRCytpSk5JBe3lzdIG5mQ3gk_5)
+- [Final Model](https://drive.google.com/open?id=1wXp5LAxRCytpSk5JBe3lzdIG5mQ3gk_5)
 
 ## 4. Results
 
