@@ -1,11 +1,12 @@
-# Instance segmentation with Detectron2
+# Instance Segmentation using Detectron2
 
-Implementation of Detectron2 for the task of instance segmentation using Tiny PASCAL VOC dataset. The model used is Mask R-CNN with ResNet50 as backbone. ImageNet pre-trained weights are used as a starting point for training. More information about the project and the code can be found in ```report.pdf```.
-See ```Detectron2.ipynb``` for importing/installing dependencies, loading the dataset, training the model and using it to apply instance segmentation to test images. Make sure to first download the dataset and the annotations before running the notebook.
+This project is part of a series of projects for the course _Selected Topics in Visual Recognition using Deep Learning_ that I attended during my exchange program at National Chiao Tung University (Taiwan). See `task.pdf` for the details of the assignment. See `report.pdf` for the report containing the representation and the analysis of the produced results.
+
+The purpose of this project is to implement a model for the task of instance segmentation using Tiny PASCAL VOC dataset. Detectron2 platform is used for this task. In particular, the model used is Mask R-CNN with ResNet50 as backbone. ImageNet pre-trained weights are used as a starting point for training ([final model](https://drive.google.com/open?id=1wXp5LAxRCytpSk5JBe3lzdIG5mQ3gk_5)).
 
 ## 1. Installation
 
-See ```Detectron2.ipynb``` for the step-by-step instructions to install detectron2.
+See ```Detectron2.ipynb``` for the step-by-step instructions to install Detectron2.
 
 ### 1.1. Requirements
 
@@ -25,7 +26,7 @@ See ```Detectron2.ipynb``` for the step-by-step instructions to install detectro
 
 - GCC >= 4.9
 
-## 2. Download Dataset
+## 2. Dataset
 
 Tiny VOC dataset contains only 1349 training images and 100 test images with 20 common object classes (namely aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor).
 
@@ -37,9 +38,9 @@ Tiny VOC dataset contains only 1349 training images and 100 test images with 20 
 
 - [Test annotations](https://drive.google.com/open?id=1aLxbdYZXIE3PHcqA_Df-odnE8IPnneyD)
 
-## 3. Pre-trained Model
+## 3. Project Structure
 
-- [Final Model](https://drive.google.com/open?id=1wXp5LAxRCytpSk5JBe3lzdIG5mQ3gk_5)
+See ```Detectron2.ipynb``` for importing/installing dependencies, loading the dataset, training the model and using it to apply instance segmentation to test images. Make sure to first download the dataset and the annotations before running the notebook.
 
 ## 4. Results
 
@@ -57,6 +58,6 @@ Tiny VOC dataset contains only 1349 training images and 100 test images with 20 
 </p>
 
 
-### 5. Credits
+## 5. Credits
 
 The [Detectron2 GitHub Repository](https://github.com/facebookresearch/detectron2) has deeply helped the development of this project.
