@@ -36,7 +36,7 @@ Tiny VOC dataset contains only 1349 training images and 100 test images with 20 
 
 - [Test set](https://drive.google.com/open?id=1XuLQ8OvGsx7U9YUHKBbJqc_nStN2cWbv)
 
-- [Test annotations](https://drive.google.com/open?id=1aLxbdYZXIE3PHcqA_Df-odnE8IPnneyD)
+- [Test annotations](https://drive.google.com/open?id=1rGV-OMcP_r7kSF4JD3T3EQmjUu5eGCUQ)
 
 ## 3. Project Structure
 
