@@ -30,11 +30,11 @@ See ```Detectron2.ipynb``` for the step-by-step instructions to install Detectro
 
 Tiny VOC dataset contains only 1349 training images and 100 test images with 20 common object classes (namely aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor).
 
-- [Training set](https://drive.google.com/open?id=1De1LwcyS4Bv4jMUDP7FwTk3Mlvz4UZVY)
+- [Training set](https://drive.google.com/open?id=1XyBJremI0zY49bh7HKw_o3sRNO9dTNV9)
 
-- [Training annotations](https://drive.google.com/open?id=1PJlwiTwjOvTeoco58o137qCNhL20eZ2U)
+- [Training annotations](https://drive.google.com/open?id=1J-1Tb-ih7o2kgyz8RlESF4a3iXgDfx76)
 
-- [Test set](https://drive.google.com/open?id=1vrDyKus2H7XsLJ78f_g6XKK3YvF9ZVyZ)
+- [Test set](https://drive.google.com/open?id=1XuLQ8OvGsx7U9YUHKBbJqc_nStN2cWbv)
 
 - [Test annotations](https://drive.google.com/open?id=1aLxbdYZXIE3PHcqA_Df-odnE8IPnneyD)
 
@@ -45,16 +45,16 @@ See ```Detectron2.ipynb``` for importing/installing dependencies, loading the da
 ## 4. Results
 
 <p align="center">
-  <img width="307" height="400" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result1.png">
+  <img width="307" height="400" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result1.png">
 </p>
 <p align="center">
-  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result2.png">
+  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result2.png">
 </p>
 <p align="center">
-  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result3.png">7
+  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result3.png">7
 </p>
 <p align="center">
-  <img width="400" height="341" src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW4/blob/master/results/result4.png">
+  <img width="400" height="341" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result4.png">
 </p>
 
 
