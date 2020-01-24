@@ -51,7 +51,7 @@ See ```Detectron2.ipynb``` for importing/installing dependencies, loading the da
   <img width="400" height="266" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result2.png">
 </p>
 <p align="center">
-  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result3.png">7
+  <img width="400" height="266" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result3.png">
 </p>
 <p align="center">
   <img width="400" height="341" src="https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2/blob/master/results/result4.png">
